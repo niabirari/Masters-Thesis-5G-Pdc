@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  MSc Thesis: Power consumption analysis of 5G transmit antenna
+  topologies and beamforming schemes
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Natasha
+    family-names: Birari
+    email: natashabirari@gmail.com
+    affiliation: TU Delft
